@@ -2,7 +2,7 @@
 
 **2017/2018** - 3rd Year, 2nd Semester
 
-**Course:** *Sistemas Distribuidos* ([SDIS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=399883)) | Distribuited Systems
+**Course:** *Sistemas Distribuidos* ([SDIS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436906)) | Distribuited Systems
 
 **Authors:** David Silva ([daviddias99](https://github.com/daviddias99)), Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho))
 
