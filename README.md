@@ -1,8 +1,8 @@
-# SDIS - Distribuited backup service
+# SDIS - Distributed backup service
 
 **2017/2018** - 3rd Year, 2nd Semester
 
-**Course:** *Sistemas Distribuidos* ([SDIS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436906)) | Distribuited Systems
+**Course:** *Sistemas Distribuidos* ([SDIS](https://sigarra.up.pt/feup/en/UCURR_GERAL.FICHA_UC_VIEW?pv_ocorrencia_id=436906)) | Distributed Systems
 
 **Authors:** David Silva ([daviddias99](https://github.com/daviddias99)), Manuel Coutinho ([ManelCoutinho](https://github.com/ManelCoutinho))
 
@@ -14,7 +14,7 @@ We implemented the specification you can find in the `docs` folder. More info on
 
 **Technologies:** Java
 
-**Skills:** Distribuited Systems, Messa protocols, RMI, TCP, file management, concurrency, thread pools, fault tolerance.
+**Skills:** Distributed Systems, Messa protocols, RMI, TCP, file management, concurrency, thread pools, fault tolerance.
 
 **Grade:** 19.2/20
 
